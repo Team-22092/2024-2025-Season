@@ -1,7 +1,19 @@
-# Cyber Eagles Jade — Into the Deep (2024–2025)
+
+<h1 align="center">Cyber Eagles Jade — Into the Deep (2024–2025)</h1>
 
 <p align="center">
   <img src="docs/logo.png" alt="Cyber Eagles Jade Logo" width="200" />
+</p>
+
+
+<p align="center">
+  <img src="docs/logos/shell.png" alt="Shell" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/logos/mcdonalds-canada.png" alt="McDonald's (Canada)" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/logos/dow.png" alt="Dow" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/logos/ats-traffic.png" alt="ATS Traffic" height="80" />
 </p>
 
 This is our FTC code for the 2024–2025 Into the Deep season. The repo has a few separate Android projects: our older Road Runner 1.0.0 build, our final version called European-comp, and our first code, Road Runner 0.5.0.
